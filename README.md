@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<
+- 🔭 I’m currently working on Unity
+- 🌱 I’m currently learning Flutter
+- ⚡ I'm currently studying at Konya Technical University
+>
+
 <!--
 **HBA114/HBA114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
