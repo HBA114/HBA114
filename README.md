@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on Unity
 - 💻 I’m currently working on Flutter
-- 💻 I'm currently learning .Net
+- 💻 I'm currently learning .NET 6.0
 - 💻 I'm currently learning Firebase
 - ⚡ I'm currently studying at Konya Technical University
 
