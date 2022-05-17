@@ -7,7 +7,7 @@
 - 💻 I'm currently learning Firebase
 - ⚡ I'm currently studying at Konya Technical University
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HBA114&show_icons=true&theme=dark" width="400">
+<img src="https://github-readme-stats-beryl.vercel.app/api?username=klaasnicolaas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400">
 
 <!--
 **HBA114/HBA114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
