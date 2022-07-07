@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💻 I’m currently working on ASP.NET Core
+- 💻 I’m currently working on ASP.NET Core Reactjs Web Apps
 - 💻 I’m currently working on Flutter
 - 💻 I'm currently learning .NET 6.0
 - 💻 I'm currently learning Reactjs
