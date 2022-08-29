@@ -9,6 +9,10 @@
 
 <img src="https://github-readme-stats-beryl.vercel.app/api?username=HBA114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400">
 
+<h4 align="center">Top langs 🔮</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact" alt="HBA114 :: Top Langs" /></p>
+
+
 <!--
 <p align="center"><img src="https://profile-counter.glitch.me/{HBA114}/count.svg" alt="HBA114 :: Visitor's Count" /></p>
 -->
