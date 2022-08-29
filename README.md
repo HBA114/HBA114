@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats-beryl.vercel.app/api?username=HBA114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400">
 
-<p align="center"><img src="https://profile-counter.glitch.me/{HBA114}/count.svg" alt="Hasan Basri :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{HBA114}/count.svg" alt="HBA114 :: Visitor's Count" /></p>
 
 <!--
 **HBA114/HBA114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
