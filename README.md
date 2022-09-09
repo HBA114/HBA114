@@ -3,8 +3,8 @@
 
 - 💻 I’m currently working on ASP.NET Core Reactjs Web Apps
 - 💻 I’m currently working on Flutter
-- 💻 I'm currently learning .NET 6.0
-- 💻 I'm currently learning Reactjs
+- 💻 I'm currently learning Layered Architecture in .NET Projects
+- 💻 I'm currently learning ReactJS
 - ⚡ I'm currently studying at Konya Technical University
 
 <img src="https://github-readme-stats-beryl.vercel.app/api?username=HBA114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400">
