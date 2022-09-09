@@ -7,10 +7,10 @@
 - 💻 I'm currently learning ReactJS
 - ⚡ I'm currently studying at Konya Technical University
 
-<img align="center" src="https://github-readme-stats-beryl.vercel.app/api?username=HBA114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400">
+<img src="https://github-readme-stats-beryl.vercel.app/api?username=HBA114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400">
 
-<h4 align="center">Top langs 🔮</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515" alt="HBA114 :: Top Langs" /></p>
+<h4 align="start">Top langs 🔮</h4>
+<p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515" alt="HBA114 :: Top Langs" /></p>
 
 
 <!--
