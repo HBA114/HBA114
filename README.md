@@ -13,7 +13,7 @@
 <h4 align="start">Top langs 🔮</h4>
 <p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515" alt="HBA114 :: Top Langs" /></p>
 
-<a href="https://github.com/smtdeveloper/nArchitecture">
+<a href="https://github.com/HBA114/BTK_TensorFlow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hba114&repo=BTK_TensorFlow&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
