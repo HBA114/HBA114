@@ -8,10 +8,14 @@
 - 💻 I'm currently learning Java
 - ⚡ I'm currently studying at Konya Technical University
 
+<a href="https://github.com/HBA114">
 <img src="https://github-readme-stats-beryl.vercel.app/api?username=HBA114&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400">
+</a>
 
 <h4 align="start">Top langs 🔮</h4>
+<a href="https://github.com/HBA114">
 <p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515" alt="HBA114 :: Top Langs" /></p>
+</a>
 
 <h4 align="start">Pinned Projects</h4>
   
