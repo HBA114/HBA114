@@ -19,6 +19,9 @@
 <a href="https://github.com/HBA114/nArchitecture">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hba114&repo=nArchitecture&theme=react&include_all_commits=true&count_private=true" />
   
+<!--[Customized Card](https://github-readme-stats.vercel.app/api/pin?username=hba114&repo=nArchitecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
+  
+<img src="https://github-readme-stats.vercel.app/api/pin?username=hba114&repo=nArchitecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="400">
 
 <!--
 <p align="center"><img src="https://profile-counter.glitch.me/{HBA114}/count.svg" alt="HBA114 :: Visitor's Count" /></p>
