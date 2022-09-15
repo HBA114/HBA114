@@ -15,7 +15,10 @@
 
 <a href="https://github.com/HBA114/BTK_TensorFlow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hba114&repo=BTK_TensorFlow&theme=react&include_all_commits=true&count_private=true" />
-</a>
+
+<a href="https://github.com/HBA114/nArchitecture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hba114&repo=nArchitecture&theme=react&include_all_commits=true&count_private=true" />
+  
 
 <!--
 <p align="center"><img src="https://profile-counter.glitch.me/{HBA114}/count.svg" alt="HBA114 :: Visitor's Count" /></p>
