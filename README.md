@@ -25,9 +25,9 @@
 <!--[Customized Card](https://github-readme-stats.vercel.app/api/pin?username=hba114&repo=nArchitecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
 
 
-<a href="https://github.com/HBA114/BTK_TensorFlow">
+<!--<a href="https://github.com/HBA114/BTK_TensorFlow">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=hba114&repo=BTK_TensorFlow&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="400"/>
-</a>
+</a> -->
 
 <a href="https://github.com/HBA114/nArchitecture">
   <img src="https://github-readme-stats.vercel.app/api/pin?username=hba114&repo=nArchitecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="400"/>
