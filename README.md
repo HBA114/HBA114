@@ -20,6 +20,20 @@
 <p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515" alt="HBA114 :: Top Langs" /></p>
 </a>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HBA114&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/HBA114)
+
+
+  <p>
+  <a href="https://github.com/torukobyte?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torukobyte&layout=compact&show_icons=true&theme=nord">
+  </a>
+  </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torukobyte&theme=nord)](https://github.com/torukobyte)
+
+</div>
+
+
 <h4 align="start">Pinned Projects</h4>
   
 <!--[Customized Card](https://github-readme-stats.vercel.app/api/pin?username=hba114&repo=nArchitecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
