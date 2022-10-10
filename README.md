@@ -20,7 +20,7 @@
 <p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515" alt="HBA114 :: Top Langs" /></p>
 </a>
 
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HBA114&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/HBA114) -->
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HBA114&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/HBA114)
 
 
   <p>
@@ -32,6 +32,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=torukobyte&theme=nord)](https://github.com/torukobyte)
 
 </div>
+-->
 
 
 <h4 align="start">Pinned Projects</h4>
