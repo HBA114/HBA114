@@ -13,8 +13,6 @@
 </a>
 
 
-<!--![Metrics](https://metrics.lecoq.io/HBA114?template=classic&isocalendar=1&stars=1&repositories=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FIstanbul) -->
-
 <h4 align="start">Top Languages 💻</h4>
 <a href="https://github.com/HBA114">
 <p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515&hide=javascript,html" alt="HBA114 :: Top Langs" />
@@ -68,3 +66,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--![Metrics](https://metrics.lecoq.io/HBA114?template=classic&isocalendar=1&stars=1&repositories=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Europe%2FIstanbul) -->
