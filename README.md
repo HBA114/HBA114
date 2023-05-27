@@ -33,7 +33,9 @@
 -->
 
 
+<!--
 <h4 align="start">Pinned Projects</h4>
+-->
   
 <!--[Customized Card](https://github-readme-stats.vercel.app/api/pin?username=hba114&repo=nArchitecture&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) -->
 
