@@ -1,11 +1,7 @@
-### Hi there 👋 I'm Hasan Basri
-
+## Hi there, I'm Hasan Basri
 
 - 💻 I’m currently working on ASP.NET Core Reactjs Web Apps
 - 💻 I’m currently working on Flutter
-- 💻 I'm currently learning Layered Architecture in .NET Projects
-- 💻 I'm currently learning ReactJS
-- 💻 I'm currently learning Java
 - ⚡ I'm Computer Engineering student at Konya Technical University
 
 <a href="https://github.com/HBA114">
