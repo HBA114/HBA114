@@ -15,7 +15,7 @@
 <a href="https://firebase.google.com/" ><img src="https://github.com/HBA114/readme-icons/blob/main/firebase.png" width="60px"></img></a>
 
 <a href="https://github.com/HBA114">
-<img src="https://github-readme-stats.vercel.app/api?username=HBA114&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="410">
+<img src="https://github-readme-stats.vercel.app/api?username=HBA114&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="410">
 </a>
 
 
