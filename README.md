@@ -18,11 +18,12 @@
 <a href="https://github.com/HBA114">
 <img src="https://github-readme-stats.vercel.app/api?username=HBA114&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="410">
 </a>
+-->
 <h4 align="start">Top Languages 💻</h4>
 <a href="https://github.com/HBA114">
 <p align="start"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HBA114&langs_count=10&layout=compact&bg_color=151515&hide=javascript,html,css" alt="HBA114 :: Top Langs" />
 </a>
--->
+
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HBA114&theme=nord&v=2&layout=compact&hide=Markdown,Config,xml,yaml,json,Cocoa,Solution+file,Csproj,textmate,Gitignore+file,Other,Text,cshtml,Groovy,IL,AUTO_DETECTED,csharp,Jsonc,Publish+Profile+file)](https://github.com/HBA114)
 
 
