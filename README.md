@@ -1,6 +1,6 @@
 ## Hi there, I'm Hasan Basri
 
-- 💻 I’m currently working on ASP.NET Core ReactJS FullStack Web Applications.
+- 💻 I’m currently working on ASP.NET Core backend projects.
 - 💻 I’m currently working on Flutter, developing Android, Web and Linux Desktop applications for my personal projects.
 - ⚡ I'm Computer Engineering student at Konya Technical University
 
