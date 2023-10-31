@@ -4,6 +4,7 @@
 - 💻 I’m currently working on Flutter, developing Android, Web and Linux Desktop applications for my personal projects.
 - ⚡ I'm Computer Engineering student at Konya Technical University
 
+<a href="https://visualstudio.microsoft.com/"><img src="https://github.com/HBA114/readme-icons/blob/main/visual_studio.png" width="55px" height="55px"></img></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/HBA114/readme-icons/blob/main/vs_code.png" width="55px" height="55px"></img></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/"><img src="https://github.com/HBA114/readme-icons/blob/main/dotnet.png" width="60px"></img></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/HBA114/readme-icons/blob/main/csharp.png" width="60px"></img></a>
