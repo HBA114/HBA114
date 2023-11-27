@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on ASP.NET Core backend projects.
 <!-- - 💻 I’m currently working on Flutter, developing Android, Web and Linux Desktop applications for my personal projects. -->
-- ⚡ I'm Back-end Developer at [NextLua](https://www.nextlua.com/)
+- ⚡ I'm ASP.NET Back-end Developer at [NextLua](https://www.nextlua.com/)
 
 <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/HBA114/readme-icons/blob/main/visual_studio.png" width="55px" height="55px"></img></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/HBA114/readme-icons/blob/main/vs_code.png" width="55px" height="55px"></img></a>
